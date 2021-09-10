@@ -13,3 +13,7 @@ Unlike a traditional React app where the entire application is loaded and render
 - Out of the box Typescript & Sass
 - Static site generation (next export)
 - Easy deployment
+
+### Contents:
+
+- [Data Fetching](dataFetching.md)
