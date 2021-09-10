@@ -16,4 +16,4 @@ Unlike a traditional React app where the entire application is loaded and render
 
 ### Contents:
 
-- [Data Fetching](dataFetching.md)
+- [Data Fetching](DataFetching.md)
